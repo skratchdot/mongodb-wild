@@ -5,7 +5,7 @@
  * 
  *      Version: 1.0
  *         Date: April 29, 2012
- *      Project: http://skratchdot.github.com/mongodb-wild/
+ *      Project: http://projects.skratchdot.com/mongodb-wild/
  *  Source Code: https://github.com/skratchdot/mongodb-wild/
  *       Issues: https://github.com/skratchdot/mongodb-wild/issues/
  * Dependencies: MongoDB v1.8+
